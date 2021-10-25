@@ -6,8 +6,8 @@
 
   "content_scripts": [
     {
-      "matches": ["https://*.nairaland.com*"],
-      "css": ["styles.css"],
+      "matches": ["https://*.nairaland.com/*"],
+      "css": ["styles.css"]
     }
   ]
 }
