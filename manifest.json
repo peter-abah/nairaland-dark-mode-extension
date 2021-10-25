@@ -1,0 +1,13 @@
+{
+  "name": "Nairaland restyler",
+  "description": "change the styles of nairaland.com",
+  "version": "1.0",
+  "manifest_version": 3,
+
+  "content_scripts": [
+    {
+      "matches": ["https://*.nairaland.com*"],
+      "css": ["styles.css"],
+    }
+  ]
+}
