@@ -1,8 +1,16 @@
 * {
   background: #111!important;
-  color: #fafafa!important;
+  color: #f4f4f4!important;
 }
 
-/*body {
-  background: #111!important;
-}*/
+blockquote, blockquote * {
+  background: #081c07!important;
+}
+
+b {
+  color: #fff!important;
+}
+
+a {
+  color: #d6dfc8!important;
+}
